@@ -1,4 +1,4 @@
 # My website
 
-👨‍💻 https://daia-code.github.io/My-website/index
+👨‍💻 https://daia-code.github.io/My-website/
 

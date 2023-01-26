@@ -227,7 +227,7 @@ span{
     letter-spacing: 1px;
     font-size: 17px;
     font-style: italic;
-    text-align: -webkit-center;
+    text-align: -webkit-left;
     
 }
 @media screen and (max-width:930px){

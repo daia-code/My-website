@@ -313,6 +313,7 @@ margin: 0;
     float: left;
     width: 25%;
     padding: 0 10px;
+    margin: 25px;
   }
 .card {
     box-sizing: border-box;

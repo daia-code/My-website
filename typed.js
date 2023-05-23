@@ -800,7 +800,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	   * @property {array} strings strings to be typed
 	   * @property {string} stringsElement ID of element containing string children
 	   */
-strings: ['Daiana-Larisa,an IT Student...','an Fronted learner...','an SAP UI5 knowler...','Digital Creator','an Android learner...'],	  
+strings: ['Daiana-Larisa,an IT Student...','an Fronted learner...','an SAP UI5 knowler...','Digital Creator'],	  
 	  stringsElement: null,
 	
 	  /**
